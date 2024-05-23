@@ -51,23 +51,6 @@ public static String URL = "jdbc:mysql://localhost:3306/mydb";
     myClient.subscribe("2powerx/temp3", 0);  // на бойпасі
     
    
-
-
-	//=====================================
-   	 
-	
-		
-		
-		
-		//ResultSet rs = st.executeQuery(str);
   }
 
-
-//@Override
-//public void start(Stage primaryStage) throws Exception {
-//	Parent root = FXMLLoader.load(getClass().getResource("samle.fxml"));
-//	
-//	
-//	
-//}
 }
